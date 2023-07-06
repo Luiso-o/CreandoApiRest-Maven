@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "64d25e74-90a7-4e8d-8400-aa29b1331d1a",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28334793"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9000/HelloWorld?nombre=Luis",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9000",
+					"path": [
+						"HelloWorld"
+					],
+					"query": [
+						{
+							"key": "nombre",
+							"value": "Luis"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
