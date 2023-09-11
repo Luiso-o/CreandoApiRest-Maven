@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/S04T01N01ApellidosNombre.iml" filepath="$PROJECT_DIR$/.idea/S04T01N01ApellidosNombre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CreandoApiRest-Maven.iml" filepath="$PROJECT_DIR$/.idea/CreandoApiRest-Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04T01N01ApellidosNombre/S04T01N01ApellidosNombre.iml" filepath="$PROJECT_DIR$/S04T01N01ApellidosNombre/S04T01N01ApellidosNombre.iml" />
     </modules>
   </component>
 </project>
